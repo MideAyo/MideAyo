@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋, I'm I'm Mide</h1>
+<h1 align="center">Hello there👋, I'm Mide</h1>
 <h3 align="center">A passionate frontend developer from West Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mideayo&label=Profile%20views&color=0e75b6&style=flat" alt="mideayo" /> </p>
